@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>InfinityDev</title>
+        <item>
+            <title>0.9</title>
+            <pubDate>Sun, 18 Feb 2024 11:45:20 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/marcbuetti/InfinityDev/releases/download/0.9/DevTools.dmg" length="3006428" type="application/octet-stream" sparkle:edSignature="g/lUUXSK/h07vqA7UtUyiwECN/X+HQzf76dNeV0zv9NaUxWqaO0Pr/RMNZmu8MfsbDiJLNI6AxPnm5dPTCqlCw=="/>
+        </item>
+    </channel>
+</rss>
